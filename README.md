@@ -1,6 +1,6 @@
 # My-zshrc
 My zshrc settings that are very useful 😎❤️
-It have also great alias 🌟
+It has also great alias 🌟
 
 # Main feature
 
